@@ -19,7 +19,8 @@
     "hubot": "2.3.2",
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3",
-		"jsdom": "0.2.19"
+		"jsdom": "0.2.19",
+		"xml2js": "0.2.0"
   },
 
   "engines": {
