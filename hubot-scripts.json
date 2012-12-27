@@ -9,7 +9,6 @@
 "github-pulls.coffee",
 "octocat.coffee",
 "ping.coffee",
-"pivotal.coffee",
 "put-it-back.coffee",
 "redis-brain.coffee",
 "shipit.coffee",
