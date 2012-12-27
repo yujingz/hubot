@@ -19,8 +19,11 @@
     "hubot": ">= 2.3.4",
     "hubot-scripts": "2.2.2",
     "optparse": "1.0.3",
-		"jsdom": "0.2.19",
-		"xml2js": "0.2.0"
+    "jsdom": "0.2.14",
+    "xml2js": "0.1.14",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0",
+    "githubot": "0.2.0"
   },
 
   "engines": {
